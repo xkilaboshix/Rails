@@ -1,1 +1,1 @@
-# DMM WEbcampのRailsの練習です
+# DMM WEbcampのRailsの練習です。
